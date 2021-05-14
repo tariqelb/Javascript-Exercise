@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remove event listener</title>
+    <style>
+        .title {
+            font-size: 14px;
+            color: sienna;
+        }
+        .btn1, .btn2 {
+            /* width: 50px; */
+            height: 25px;
+            background-color: springgreen;
+            color: slateblue;
+            border-radius: 5px;
+            border: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <p class="title" >click on the left button to change the font color of the paragraphe
+        <button id="btn" class="btn1" >Left</button>
+        and click on the right button to remove the event listener
+        <button id='btn2' class="btn2" onclick="remove_event()">Right</button>
+    </p>
+    <p id="prg" class="parag">Write a JavaScript program to remove an event listener from an element.</p>
+    <script src="Ex93.js" defer></script>
+</body>
+</html>
