@@ -40,6 +40,7 @@ Users should be able to:
 
 ### Built with
 
+- HTML
 - JavaScript
 - EcmaScript 6
 
@@ -58,4 +59,4 @@ There is many other topic that does not cover yet, so i will continue my learn p
 ## Acknowledgments
 
 
-I so grateful to w3resource for all tutorial and Exercice providing for us, it's really help me  to improve my knowledge in javascript language
+I so grateful to w3resource for all tutorial and Exercice providing for us, it's really help me  to improve my knowledge in javascript language.
